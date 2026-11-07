@@ -1,0 +1,170 @@
+{
+  "ARIES": {
+    "sign": "Aries",
+    "element": "Fuego",
+    "heading": "Luna en ARIES - Elemento: Fuego",
+    "sections": {
+      "Tu refugio íntimo": "La Luna en Aries se vincula con emociones intensas y reacciones espontáneas. Su mundo afectivo busca resolver todo en el momento, recuperando rápidamente el entusiasmo a través de la sinceridad y la independencia.",
+      "Tu sensibilidad principal": "Reaccionás con rapidez ante lo que sentís, valorás la libertad absoluta para manejar tus emociones y vivís la alegría o el enojo con gran fuerza.",
+      "Tu capacidad de contención": "Expresás lo que sentís con total franqueza, te recuperás rápidamente de los enojos sin quedarte atrapada en el pasado y aportás un entusiasmo afectivo muy genuino.",
+      "Tus patrones a soltar": "La impulsividad que lleva a responder de forma apresurada, la impaciencia con los tiempos ajenos y la tendencia a ponerse a la defensiva en lugar de mostrar vulnerabilidad.",
+      "Cómo te vinculás": "Te expresás mediante demostraciones espontáneas de cariño y una comunicación directa, valorando la sinceridad por encima del silencio y aprendiendo a escuchar sin reaccionar de inmediato.",
+      "Tu mundo interior": "Tu energía evoluciona al combinar la espontaneidad con la paciencia, haciendo pausas antes de responder y poniendo en palabras lo que duele para cuidar a tus afectos.",
+      "Palabras clave": "Espontaneidad · Intensidad · Franqueza · Independencia · Entusiasmo"
+    }
+  },
+  "TAURO": {
+    "sign": "Tauro",
+    "element": "Tierra",
+    "heading": "Luna en TAURO - Elemento: Tierra",
+    "sections": {
+      "Tu refugio íntimo": "La Luna en Tauro busca la estabilidad emocional y la seguridad afectiva. Sus emociones se procesan con calma y necesitan rutinas agradables y entornos confiables para hallar tranquilidad.",
+      "Tu sensibilidad principal": "Buscás una serenidad interior que rechaza las tensiones, exigís entornos predecibles y respetás tu propio ritmo pausado para procesar cada sentimiento.",
+      "Tu capacidad de contención": "Afrontás las crisis con gran paciencia, ofrecés una lealtad afectiva inquebrantable a tus seres queridos y transmitís una calma natural mediante tu presencia y tus gestos.",
+      "Tus patrones a soltar": "La resistencia rígida frente a los cambios inesperados, el apego a situaciones que ya no hacen bien y la acumulación silenciosa de malestar.",
+      "Cómo te vinculás": "Expresás el cariño mediante la constancia y demostraciones concretas de amor, valorando la continuidad y la seguridad, mientras aprendés a comunicar tus emociones a tiempo.",
+      "Tu mundo interior": "Tu equilibrio emocional se alcanza cuando comprendés que la estabilidad no exige que todo permanezca igual, adaptándote a los cambios sin quedar atrapada en lo conocido.",
+      "Palabras clave": "Estabilidad · Seguridad · Paciencia · Lealtad · Calma"
+    }
+  },
+  "GEMINIS": {
+    "sign": "Géminis",
+    "element": "Aire",
+    "heading": "Luna en GÉMINIS - Elemento: Aires",
+    "sections": {
+      "Tu refugio íntimo": "La Luna en Géminis busca una vida emocional activa y mental. Poner en palabras lo que siente, intercambiar ideas y conversar con libertad le brindan claridad y bienestar interior.",
+      "Tu sensibilidad principal": "Analizás tus sentimientos mediante la curiosidad emocional, procesás las vivencias hablando con otros y buscás estímulos constantes para cambiar de perspectiva.",
+      "Tu capacidad de contención": "Expresás con facilidad lo que te sucede gracias a tu palabra, te adaptás con flexibilidad ante los cambios de información y usás el humor para aliviar tensiones.",
+      "Tus patrones a soltar": "La inquietud mental que da demasiadas vueltas a las cosas, la volatilidad en los estados de ánimo y la evasión de los sentimientos profundos mediante el exceso de razonamiento.",
+      "Cómo te vinculás": "Conectás emocionalmente mediante el diálogo, el humor y la libertad de expresión, valorando el espacio personal, mientras aprendés a sentir más allá de las explicaciones racionales.",
+      "Tu mundo interior": "Tu equilibrio emocional se fortalece al combinar el deseo de comprender con la capacidad de sentir, dándole tiempo a las emociones sin buscar explicaciones inmediatas.",
+      "Palabras clave": "Comunicación · Curiosidad · Flexibilidad · Humor · Versatilidad"
+    }
+  },
+  "CANCER": {
+    "sign": "Cáncer",
+    "element": "Agua",
+    "heading": "Luna en CÁNCER - Elemento: Agua",
+    "sections": {
+      "Tu refugio íntimo": "La Luna en Cáncer se asocia con una vida emocional profunda y una fuerte necesidad de confianza. Su bienestar se liga a los afectos, los recuerdos y los espacios de seguridad donde baja la guardia.",
+      "Tu sensibilidad principal": "Percibís con gran intensidad los cambios de ánimo del entorno, buscás espacios de pertenencia libres de rechazo y conservás una memoria emocional muy vívida.",
+      "Tu capacidad de contención": "Ofrecés una empatía genuina para escuchar al otro, demostrás un instinto protector muy atento al bienestar ajeno y brindás generosidad mediante cuidados cotidianos.",
+      "Tus patrones a soltar": "La susceptibilidad excesiva ante comentarios menores, el apego doloroso al pasado y la tendencia a encerrarse en silencio al sentirse vulnerable.",
+      "Cómo te vinculás": "Expresás el cariño a través del cuidado y la intimidad, valorando la confianza recíproca, mientras aprendés a comunicar tus necesidades con claridad sin esperar que las adivinen.",
+      "Tu mundo interior": "Tu equilibrio emocional se fortalece cultivando seguridad interior, expresando lo que duele y poniendo límites sanos para cuidar los vínculos sin descuidarte.",
+      "Palabras clave": "Sensibilidad · Empatía · Protección · Intuición · Pertenencia"
+    }
+  },
+  "LEO": {
+    "sign": "Leo",
+    "element": "Fuego",
+    "heading": "Luna en LEO - Elemento: Fuego",
+    "sections": {
+      "Tu refugio íntimo": "La Luna en Leo se vincula con emociones intensas y una expresión afectiva cálida. Su bienestar emocional crece al encontrar espacios para compartir su entusiasmo y recibir sinceras muestras de reconocimiento.",
+      "Tu sensibilidad principal": "Vivís tus sentimientos con una energía sumamente contagiosa, exigís sentir que tus seres queridos valoran tu presencia y protegés tus emociones bajo una imagen de seguridad ante las heridas.",
+      "Tu capacidad de contención": "Demostrás un cariño muy generoso con atención y entusiasmo, transmitís una enorme calidez que hace sentir bienvenidos a los demás y ofrecés una lealtad profunda en los vínculos importantes.",
+      "Tus patrones a soltar": "La dependencia de la aprobación ajena para sentir valor propio, la sensibilidad extrema frente a las críticas y la resistencia a ceder el orgullo.",
+      "Cómo te vinculás": "Expresás el afecto de forma visible mediante gestos generosos y palabras entusiastas, valorando el reconocimiento mutuo, mientras aprendés a no confundir distintas formas de amar con falta de afecto.",
+      "Tu mundo interior": "Tu equilibrio emocional se fortalece al combinar la necesidad de aprecio con la confianza interna, aceptando la vulnerabilidad y construyendo vínculos seguros sin depender de aplausos externos.",
+      "Palabras clave": "Calidez · Generosidad · Reconocimiento · Lealtad · Expresión"
+    }
+  },
+  "VIRGO": {
+    "sign": "Virgo",
+    "element": "Tierra",
+    "heading": "Luna en VIRGO - Elemento: Tierra",
+    "sections": {
+      "Tu refugio íntimo": "La Luna en Virgo busca el orden, la claridad y la estabilidad a través de lo concreto. Su bienestar emocional se liga a las rutinas, la organización y la capacidad de hallar soluciones útiles ante las dificultades.",
+      "Tu sensibilidad principal": "Analizás tus sentimientos buscando causas y explicaciones lógicas, necesitás previsibilidad en tu vida cotidiana y percibís con agudeza cualquier pequeño cambio o gesto en tu entorno.",
+      "Tu capacidad de contención": "Afrontas los problemas con gran practicidad para hallar soluciones reales, demostrás un profundo cariño mediante ayuda concreta y mantenés el autocontrol para apoyar con calma a los demás.",
+      "Tus patrones a soltar": "El exceso de análisis que da demasiadas vueltas a lo que sentís, la autoexigencia severa al juzgar tus propias reacciones y la dificultad para soltar el control ante la incertidumbre.",
+      "Cómo te vinculás": "Expresás el afecto mediante la atención a los detalles cotidianos y la presencia servicial, mientras aprendés a mostrar tu vulnerabilidad y comprendés que acompañar no siempre es resolver.",
+      "Tu mundo interior": "Tu equilibrio emocional florece al combinar tu deseo de mejora con la autoaceptación, permitiéndote sentir sin juzgar y reduciendo la autoexigencia frente a lo que no se puede prever.",
+      "Palabras clave": "Análisis · Orden · Resolución · Consideración · Autocontrol"
+    }
+  },
+  "LIBRA": {
+    "sign": "Libra",
+    "element": "Aire",
+    "heading": "Luna en LIBRA - Elemento: Aire",
+    "sections": {
+      "Tu refugio íntimo": "La Luna en Libra se asocia con la necesidad de armonía emocional y vínculos equilibrados. Su bienestar depende de compartir, dialogar y resolver diferencias en un ambiente agradable y sin tensiones.",
+      "Tu sensibilidad principal": "Buscás activamente entornos pacíficos reduciendo tensiones, valorás profundamente la compañía para conversar sobre lo que sentís y considerás la perspectiva ajena antes de actuar.",
+      "Tu capacidad de contención": "Abordás conversaciones delicadas con absoluta diplomacia y tacto, conciliás posturas enfrentadas para favorecer el diálogo y hallás bienestar en la belleza y el arte cotidiano.",
+      "Tus patrones a soltar": "La indecisión emocional ante las expectativas ajenas, la tendencia a evitar conflictos callando lo que molesta y la dependencia excesiva de la aprobación exterior.",
+      "Cómo te vinculás": "Buscás relaciones basadas en el diálogo y la reciprocidad, construyendo acuerdos compartidos, mientras aprendés a expresar tus deseos con claridad y a perder el miedo a las diferencias.",
+      "Tu mundo interior": "Tu equilibrio emocional se fortalece cuando la armonía externa incluye el respeto por tus propias necesidades, tomando decisiones sin buscar validación y expresando los desacuerdos a tiempo.",
+      "Palabras clave": "Armonía · Compañía · Diplomacia · Equilibrio · Tacto"
+    }
+  },
+  "ESCORPIO": {
+    "sign": "Escorpio",
+    "element": "Agua",
+    "heading": "Luna en ESCORPIO - Elemento: Agua",
+    "sections": {
+      "Tu refugio íntimo": "La Luna en Escorpio se asocia con emociones profundas y una gran intensidad afectiva. Su bienestar depende de hallar un espacio seguro y de confianza donde mostrarse sin temor a ser lastimada.",
+      "Tu sensibilidad principal": "Vivís tus sentimientos con extrema fuerza, protegés celosamente tu valiosa intimidad y captás con aguda percepción los silencios y cambios de actitud del entorno.",
+      "Tu capacidad de contención": "Brindás una lealtad inquebrantable a quienes confiás, demostrás una gran resiliencia para reconstruirte tras el dolor y te comprometés profundamente con lo que considerás valioso.",
+      "Tus patrones a soltar": "La desconfianza inicial que retarda la apertura emocional, la necesidad férrea de controlarlo todo ante la incertidumbre y la dificultad para soltar viejos rencores o dolores.",
+      "Cómo te vinculás": "Buscás relaciones profundas, sinceras y de absoluta confianza, acompañando con total entrega, mientras aprendés a comunicar tus inseguridades sin temor a perder el control.",
+      "Tu mundo interior": "Tu equilibrio emocional se fortalece al canalizar tu intensidad de manera saludable, expresando lo que duele, soltando el control y dejando atrás el peso del pasado.",
+      "Palabras clave": "Intensidad · Profundidad · Reserva · Lealtad · Confianza"
+    }
+  },
+  "SAGITARIO": {
+    "sign": "Sagitario",
+    "element": "Fuego",
+    "heading": "Luna en SAGITARIO - Elemento: Fuego",
+    "sections": {
+      "Tu refugio íntimo": "La Luna en Sagitario busca libertad, entusiasmo y nuevas experiencias. Su bienestar depende de explorar, aprender y recuperar la confianza mirando las situaciones difíciles desde una perspectiva más amplia.",
+      "Tu sensibilidad principal": "Mantenés un profundo optimismo ante la adversidad, sentís incomodidad ante restricciones emocionales y buscás comprender el sentido de cada vivencia para seguir adelante.",
+      "Tu capacidad de contención": "Contagiás un entusiasmo que alienta al entorno, expresás lo que sentís con sinceridad absoluta y poseés una gran resiliencia para renovar la ilusión tras las decepciones.",
+      "Tus patrones a soltar": "La inquietud que huye de las emociones difíciles, el exceso de optimismo que resta importancia al dolor y la tendencia a distraerse para no profundizar en lo incómodo.",
+      "Cómo te vinculás": "Buscás relaciones que combinen franqueza, humor y espacio personal, mientras aprendés a acompañar los procesos ajenos sin apurar soluciones ni temerle a la cercanía.",
+      "Tu mundo interior": "Tu equilibrio emocional florece al integrar el optimismo con el reconocimiento del dolor, permitiéndote atravesar momentos difíciles sin necesidad de hallar respuestas inmediatas.",
+      "Palabras clave": "Optimismo · Libertad · Alegría · Franqueza · Exploración"
+    }
+  },
+  "CAPRICORNIO": {
+    "sign": "Capricornio",
+    "element": "Tierra",
+    "heading": "Luna en CAPRICORNIO  - Elemento: Tierra",
+    "sections": {
+      "Tu refugio íntimo": "La Luna en Capricornio se asocia con una vida emocional reservada y una fuerte necesidad de estabilidad. Su bienestar se liga a la seguridad, la responsabilidad y la autonomía para afrontar las dificultades.",
+      "Tu sensibilidad principal": "Procesás tus sentimientos en privado antes de compartirlos, ejercés un férreo autocontrol ante el estrés y priorizás la previsibilidad cotidiana para sentirte protegida.",
+      "Tu capacidad de contención": "Demostrás una gran responsabilidad afectiva estando presente cuando te necesitan, sostenés los vínculos con perseverancia y actuás con prudencia evaluando cada decisión.",
+      "Tus patrones a soltar": "La dificultad para expresar sentimientos por temor a la vulnerabilidad, la autoexigencia severa que exige fortaleza constante y la rigidez emocional frente a la ayuda ajena.",
+      "Cómo te vinculás": "Expresás el cariño mediante la constancia y acciones concretas de compromiso, mientras aprendés a mostrar tu mundo interior y comprendés que pedir apoyo es una muestra de fortaleza.",
+      "Tu mundo interior": "Tu equilibrio emocional se construye combinando el sentido del deber con la autoaceptación, permitiéndote descansar y compartir tus preocupaciones sin la necesidad de controlarlo todo.",
+      "Palabras clave": "Reserva · Responsabilidad · Madurez · Perseverancia · Prudencia"
+    }
+  },
+  "ACUARIO": {
+    "sign": "Acuario",
+    "element": "Aire",
+    "heading": "Luna en ACUARIO  - Elemento: Aire",
+    "sections": {
+      "Tu refugio íntimo": "La Luna en Acuario se asocia con una forma particular de vivir las emociones donde la independencia y el espacio personal son vitales. Su bienestar se liga a la libertad de ser y relacionarse sin límites.",
+      "Tu sensibilidad principal": "Procesás tus sentimientos con independencia y distancia óptima, analizás lo que te pasa a través de la reflexión lógica y valoras profundamente tu libertad ante las exigencias.",
+      "Tu capacidad de contención": "Ofrecés una mentalidad sumamente abierta que respeta la diversidad emocional ajena, aportás originalidad para afrontar crisis y construyes vínculos de sincera amistad sin afanes de control.",
+      "Tus patrones a soltar": "El distanciamiento emocional excesivo ante sentimientos difíciles, la resistencia a interpretar la cercanía afectiva como una amenaza a la libertad y la dificultad para mostrar vulnerabilidad.",
+      "Cómo te vinculás": "Valorás la amistad, el respeto y el intercambio de ideas estimulantes, mientras aprendés a comunicar tu necesidad de espacio sin desconectarte afectivamente y a integrar la cercanía.",
+      "Tu mundo interior": "Tu equilibrio emocional crece cuando tu inquebrantable independencia se combina con la disposición a compartir lo que sentís, construyendo intimidad sin renunciar a tu individualidad.",
+      "Palabras clave": "Independencia · Libertad · Apertura · Amistad · Reflexión"
+    }
+  },
+  "PISCIS": {
+    "sign": "Piscis",
+    "element": "Agua",
+    "heading": "Luna en PISCIS  - Elemento: Agua",
+    "sections": {
+      "Tu refugio íntimo": "La Luna en Piscis se asocia con una vida emocional muy sensible y una gran conexión interior. Su bienestar se liga a la tranquilidad, la creatividad y los espacios seguros libres de juicios.",
+      "Tu sensibilidad principal": "Vivís los sentimientos con profunda intensidad, te afectan los estados de ánimo ajenos y recurrís a la imaginación, la música o los sueños para procesar lo que te pasa.",
+      "Tu capacidad de contención": "Ofrecés una empatía inigualable ante el sufrimiento ajeno, volcás tu riqueza interior en expresiones creativas y te adaptas con flexibilidad a los cambios del entorno.",
+      "Tus patrones a soltar": "Los límites difusos que absorben problemas ajenos, la idealización excesiva de la realidad y la tendencia a la evasión mediante la fantasía o el aislamiento.",
+      "Cómo te vinculás": "Expresás el cariño mediante una profunda comprensión y delicados gestos, mientras aprendés a cuidar tu sensibilidad, a comunicar tus necesidades y a no hacerte cargo de lo ajeno.",
+      "Tu mundo interior": "Tu equilibrio emocional se fortalece combinando la empatía con límites claros y realismo, distinguiendo lo que sentís para conservar tu bienestar personal.",
+      "Palabras clave": "Sensibilidad · Imaginación · Intuición · Empatía · Creatividad"
+    }
+  }
+}

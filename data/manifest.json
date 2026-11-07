@@ -1,0 +1,11 @@
+{
+  "version": "0.1-prueba-editorial",
+  "description": "Contenido independiente de la interfaz para ASTRODIA.",
+  "counts": {
+    "sol": 12,
+    "luna": 12,
+    "ascendente": 12,
+    "combinaciones": 1728
+  },
+  "note": "Las combinaciones son una primera generación editorial para revisar y ajustar antes de considerarlas definitivas."
+}

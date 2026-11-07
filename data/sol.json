@@ -1,0 +1,170 @@
+{
+  "ARIES": {
+    "sign": "Aries",
+    "element": "Fuego",
+    "heading": "Sol en ARIES - Elemento: Fuego",
+    "sections": {
+      "Tu motor vital": "Aries es la chispa que enciende nuevos comienzos. Su energía propone una identidad espontánea y decidida, orientada a abrirse camino por cuenta propia, explorar desafíos con entusiasmo y expresar la autenticidad sin rodeos.",
+      "Tu forma de brillar": "Tomás la delantera con determinación, elegís tu propio camino desde la independencia y actuás con la espontaneidad que aporta frescura y dinamismo.",
+      "Tu poder personal": "Te animás a enfrentar desafíos con valentía, contagiás entusiasmo para poner en marcha proyectos y recuperás fuerzas rápidamente ante la adversidad.",
+      "Tus lecciones de vida": "Aprendés a manejar la impaciencia ante los tiempos lentos, medís el impacto de tus reacciones impulsivas y buscás sostener el ritmo más allá de la novedad inicial.",
+      "Cómo te relacionás": "Expresás el afecto de forma directa y sincera, valorando la individualidad y demostrando presencia, mientras aprendés a escuchar sin apuros y a respetar otros tiempos.",
+      "Tu propósito de vida": "Tu energía evoluciona cuando combinás el coraje con la paciencia, transformando el entusiasmo de los comienzos en logros sólidos y duraderos.",
+      "Palabras clave": "Iniciativa · Valentía · Independencia · Entusiasmo · Espontaneidad"
+    }
+  },
+  "TAURO": {
+    "sign": "Tauro",
+    "element": "Tierra",
+    "heading": "Sol en TAURO - Elemento: Tierra",
+    "sections": {
+      "Tu motor vital": "Tauro construye con calma y constancia. Su identidad se orienta hacia la estabilidad, el disfrute de lo simple y la búsqueda de seguridad, avanzando a su propio ritmo hacia aquello que perdura.",
+      "Tu forma de brillar": "Sostenés tus metas con paciencia y constancia, aplicás soluciones prácticas para la vida cotidiana y disfrutás de los pequeños placeres y del bienestar sensorial.",
+      "Tu poder personal": "Mantenés un firme compromiso frente a los obstáculos, transmitís seguridad y confianza a quienes te rodean, y respetás los tiempos necesarios para cada proceso.",
+      "Tus lecciones de vida": "Superás la resistencia frente a los cambios inesperados, soltás el apego a lo conocido cuando las situaciones se cierran y abrís la mente a nuevas alternativas.",
+      "Cómo te relacionás": "Expresás el afecto mediante la lealtad y la presencia concreta, valorando el tiempo compartido, aunque necesitando aceptar que la flexibilidad fortalece los vínculos.",
+      "Tu propósito de vida": "Tu energía evoluciona cuando lográs que la estabilidad conviva con la flexibilidad, creciendo y abriéndote a nuevas posibilidades sin perder tu eje de seguridad.",
+      "Palabras clave": "Constancia · Estabilidad · Paciencia · Lealtad · Bienestar"
+    }
+  },
+  "GEMINIS": {
+    "sign": "Géminis",
+    "element": "Aire",
+    "heading": "Sol en GEMINIS - Elemento: Aire",
+    "sections": {
+      "Tu motor vital": "Géminis representa la curiosidad y el intercambio de ideas. Su identidad inquieta y comunicativa encuentra motivación en aprender, conversar y explorar diferentes perspectivas con la mente abierta.",
+      "Tu forma de brillar": "Explorás temas variados con curiosidad, te expresás con facilidad mediante la palabra y te adaptás con soltura ante los cambios y las situaciones nuevas.",
+      "Tu poder personal": "Mostrás gran agilidad mental para conectar ideas rápidamente, aportás ingenio y humor ante cualquier reto, y tenés una enorme facilidad para absorber nuevos conocimientos.",
+      "Tus lecciones de vida": "Evitás la dispersión para mantener la concentración en una sola tarea, calmás la inquietud mental para descansar y decidís sin temor a dejar opciones de lado.",
+      "Cómo te relacionás": "Expresás el afecto a través del diálogo y el humor, valorando los vínculos estimulantes, mientras aprendés a escuchar con atención y a darles mayor profundidad.",
+      "Tu propósito de vida": "Tu energía evoluciona al combinar tu gran curiosidad con la capacidad de profundizar, transformando múltiples intereses en experiencias significativas sin perder frescura.",
+      "Palabras clave": "Curiosidad · Comunicación · Ingenio · Adaptabilidad · Aprendizaje"
+    }
+  },
+  "CANCER": {
+    "sign": "Cáncer",
+    "element": "Agua",
+    "heading": "Sol en CÁNCER - Elemento: Agua",
+    "sections": {
+      "Tu motor vital": "Cáncer representa la sensibilidad y la necesidad de construir un espacio propio de refugio. Su identidad intuitiva y protectora prioriza los lazos cercanos, los recuerdos y la pertenencia.",
+      "Tu forma de brillar": "Percibís con gran agudeza los matices emocionales del entorno, te guiás por una profunda intuición y valorás los espacios de confianza donde podés mostrarte tal como sos.",
+      "Tu poder personal": "Brindás una empatía genuina para sostener a otros en momentos difíciles, demostrás tu cariño mediante cuidados concretos y tenés siempre presentes los sentimientos de tus seres queridos.",
+      "Tus lecciones de vida": "Superás la susceptibilidad ante comentarios ajenos, soltás el apego excesivo al pasado y aprendés a expresar lo que te pasa en lugar de replegarte en silencio.",
+      "Cómo te relacionás": "Expresás el afecto mediante la atención cotidiana y la intimidad, valorando la confianza recíproca, mientras aprendés a comunicar tus necesidades con claridad sin esperar que las adivinen.",
+      "Tu propósito de vida": "Tu energía evoluciona al equilibrar tu gran sensibilidad con la seguridad interior, expresando lo que sentís y poniendo límites sanos para cuidar los vínculos sin descuidarte.",
+      "Palabras clave": "Sensibilidad · Intuición · Empatía · Protección"
+    }
+  },
+  "LEO": {
+    "sign": "Leo",
+    "element": "Fuego",
+    "heading": "Sol en LEO - Elemento: Fuego",
+    "sections": {
+      "Tu motor vital": "Leo representa la creatividad, la vitalidad y la expresión auténtica. Su energía cálida y entusiasta busca dejar una huella personal, viviendo con pasión y compartiendo sus talentos con el mundo.",
+      "Tu forma de brillar": "Buscás formas originales de expresarte en cada proyecto, te mostrás tal como sos con total autenticidad y desplegás una generosidad cálida para motivar a quienes te rodean.",
+      "Tu poder personal": "Asumís desafíos con firme confianza personal, asumís el liderazgo con facilidad para entusiasmar en metas comunes y creás un ambiente integrador donde todos se sienten reconocidos.",
+      "Tus lecciones de vida": "Trascendés la necesidad constante de aprobación ajena, suavizás el orgullo para mostrarte vulnerable cuando hace falta y aprendés a ceder el protagonismo para dar espacio a otras voces.",
+      "Cómo te relacionás": "Expresás el afecto de forma entusiasta y generosa, valorando la lealtad recíproca, mientras aprendés a escuchar con atención y a entender que el amor no siempre requiere de grandes gestos.",
+      "Tu propósito de vida": "Tu energía evoluciona al combinar tu confianza con la escucha atenta, reconociendo tu propio valor de forma interna para compartir tus dones libremente sin depender del aplauso externo.",
+      "Palabras clave": "Creatividad · Confianza · Generosidad · Liderazgo"
+    }
+  },
+  "VIRGO": {
+    "sign": "Virgo",
+    "element": "Tierra",
+    "heading": "Sol en VIRGO - Elemento: Tierra",
+    "sections": {
+      "Tu motor vital": "Virgo representa la atención al detalle y el sentido práctico. Su identidad observadora y analítica busca comprender el funcionamiento de las cosas para encontrar soluciones útiles y mejorar el entorno.",
+      "Tu forma de brillar": "Registrás cada detalle que otros pasan por alto, organizás tu tiempo con claridad para ganar tranquilidad y aplicás un criterio realista con los recursos disponibles.",
+      "Tu poder personal": "Asumís tus compromisos con absoluta responsabilidad, analizás la información con cuidado para evitar errores y ofrecés una valiosa vocación de servicio ayudando de forma concreta.",
+      "Tus lecciones de vida": "Superás el perfeccionismo que paraliza, aquietas la autocrítica para reconocer tus propios logros y evitás el exceso de análisis que posterga las decisiones.",
+      "Cómo te relacionás": "Expresás el afecto mediante la ayuda práctica y la presencia en los detalles cotidianos, mientras aprendés que a veces basta con acompañar y escuchar en lugar de querer corregir todo.",
+      "Tu propósito de vida": "Tu energía evoluciona al equilibrar el deseo de mejora con la autoaceptación, valorando los procesos y permitiéndote descansar sin convertir cada tarea en una exigencia constante.",
+      "Palabras clave": "Observación · Organización · Practicidad · Responsabilidad · Análisis"
+    }
+  },
+  "LIBRA": {
+    "sign": "Libra",
+    "element": "Aire",
+    "heading": "Sol en LIBRA - Elemento: Aire",
+    "sections": {
+      "Tu motor vital": "Libra busca constantemente el equilibrio, la armonía y el respeto mutuo. Su energía sociable y diplomática se motiva creando espacios agradables y puentes de encuentro entre diferentes puntos de vista.",
+      "Tu forma de brillar": "Te comunicás con tacto y elegancia, disfrutás del intercambio social enriquecedor y cuidás la belleza y la armonía visual en cada espacio o experiencia.",
+      "Tu poder personal": "Actuás como un gran conciliador para acercar posiciones dispares, considerás siempre la perspectiva ajena y aplicás un profundo sentido de la justicia en cada decisión.",
+      "Tus lecciones de vida": "Superás la indecisión al evaluar múltiples caminos, te animás a enfrentar los desacuerdos en lugar de evitarlos y priorizás tus propias preferencias por encima de la aprobación externa.",
+      "Cómo te relacionás": "Expresás el afecto mediante el compañerismo y el diálogo respetuoso, mientras aprendés que la verdadera armonía incluye expresar tus propias necesidades sin temor a disentir.",
+      "Tu propósito de vida": "Tu energía evoluciona cuando lográs que la búsqueda de armonía contenga también tus propios deseos, construyendo vínculos auténticos y equilibrados sin renunciar a tu voz.",
+      "Palabras clave": "Equilibrio · Diplomacia · Sociabilidad · Justicia · Armonía"
+    }
+  },
+  "ESCORPIO": {
+    "sign": "Escorpio",
+    "element": "Agua",
+    "heading": "Sol en ESCORPIO - Elemento: Agua",
+    "sections": {
+      "Tu motor vital": "Escorpio representa la profundidad emocional y la búsqueda de lo esencial. Su identidad intensa y reservada se orienta a descubrir la verdad tras las apariencias y a vivir vínculos auténticos.",
+      "Tu forma de brillar": "Te entregás con profundo compromiso a lo que te importa, cuidás celosamente tu valiosa intimidad y percibís con gran agudeza los matices ocultos de cada situación.",
+      "Tu poder personal": "Sostenés tus metas con firme determinación ante la adversidad, brindás una lealtad inquebrantable a tus afectos y poseés una notable capacidad para renovarte tras las crisis.",
+      "Tus lecciones de vida": "Superás la desconfianza inicial abriéndote a los demás, soltás la necesidad de controlarlo todo frente a la incertidumbre y aprendés a dejar atrás viejos rencores.",
+      "Cómo te relacionás": "Expresás el afecto mediante la complicidad y el compromiso total, valorando la intimidad, mientras aprendés a compartir lo que sentís sin temor y a aceptar la incertidumbre.",
+      "Tu propósito de vida": "Tu energía evoluciona al combinar tu gran profundidad emocional con la confianza, soltando el control y transformando la intensidad en una fuente genuina de evolución personal.",
+      "Palabras clave": "Intensidad · Profundidad · Reserva · Lealtad · Transformación"
+    }
+  },
+  "SAGITARIO": {
+    "sign": "Sagitario",
+    "element": "Fuego",
+    "heading": "Sol en SAGITARIO - Elemento: Fuego",
+    "sections": {
+      "Tu motor vital": "Sagitario representa el deseo de explorar y ampliar horizontes. Su identidad optimista y aventurera busca descubrir otras perspectivas, encontrar sentido a la vida y disfrutar de la libertad de elegir su propio camino.",
+      "Tu forma de brillar": "Te atrae lo desconocido para salir de la rutina, mirás siempre hacia adelante con un profundo optimismo y recibís con curiosidad y apertura las ideas de los demás.",
+      "Tu poder personal": "Contagiás un entusiasmo contagioso para iniciar proyectos, expresás tus ideas con total franqueza y extraés valiosas enseñanzas para construir una visión amplia de la vida.",
+      "Tus lecciones de vida": "Superás la impaciencia para respetar los tiempos que cada proceso requiere, moderás tu franqueza para cuidar a los demás y equilibrás tu necesidad de libertad con los compromisos.",
+      "Cómo te relacionás": "Expresás el afecto compartiendo experiencias y charlas estimulantes, valorando la sinceridad, mientras aprendés que la cercanía no limita la libertad y que escuchar con sensibilidad es fundamental.",
+      "Tu propósito de vida": "Tu energía evoluciona al combinar tu espíritu explorador con la responsabilidad y la atención al presente, convirtiendo tu entusiasmo en aprendizajes duraderos y significativos.",
+      "Palabras clave": "Aventura · Optimismo · Libertad · Franqueza · Exploración"
+    }
+  },
+  "CAPRICORNIO": {
+    "sign": "Capricornio",
+    "element": "Tierra",
+    "heading": "Sol en CAPRICORNIO - Elemento: Tierra",
+    "sections": {
+      "Tu motor vital": "Capricornio representa la responsabilidad, la perseverancia y el deseo de construir bases sólidas a largo plazo. Su identidad prudente y ambiciosa avanza paso a paso hacia metas concretas.",
+      "Tu forma de brillar": "Aplicás una firme disciplina en tus rutinas cotidianas, evaluás cada decisión con prudencia y canalizás tu ambición para desarrollar habilidades y superar tus propios límites.",
+      "Tu poder personal": "Sostenés tus metas con una perseverancia inquebrantable frente a los obstáculos, demostrás un compromiso confiable con tus acciones y resolvéis tus tareas con total autonomía.",
+      "Tus lecciones de vida": "Superás la autoexigencia excesiva, ablandás la rigidez frente a los cambios inesperados y aprendés a priorizar el descanso y el disfrute por encima de las obligaciones.",
+      "Cómo te relacionás": "Expresás el afecto mediante la presencia constante y el apoyo concreto, valorando la estabilidad, mientras aprendés a mostrar vulnerabilidad y a compartir momentos de disfrute.",
+      "Tu propósito de vida": "Tu energía evoluciona al combinar el sentido del deber con la flexibilidad y el bienestar, logrando tus metas sin convertir el camino en una carga agobiante.",
+      "Palabras clave": "Disciplina · Perseverancia · Ambición · Prudencia · Autonomía"
+    }
+  },
+  "ACUARIO": {
+    "sign": "Acuario",
+    "element": "Aire",
+    "heading": "Sol en ACUARIO - Elemento: Aire",
+    "sections": {
+      "Tu motor vital": "Acuario representa la originalidad y el deseo de imaginar nuevas formas de comprender el mundo. Su identidad innovadora y curiosa busca cuestionar lo establecido y aportar al bienestar colectivo.",
+      "Tu forma de brillar": "Aportás un ingenio único ante los problemas, defendés celosamente tu libertad de pensamiento y te interesás genuinamente por causas e iniciativas sociales.",
+      "Tu poder personal": "Demostrás una gran creatividad con perspectivas novedosas, mantenés una mente sumamente abierta a distintas opiniones y te comprometés firmemente con tus ideales.",
+      "Tus lecciones de vida": "Superás el distanciamiento emocional para expresar tus sentimientos con claridad, evitás la resistencia excesiva a los límites útiles y flexibilizás tu postura ante los propios principios.",
+      "Cómo te relacionás": "Expresás el afecto a través de la amistad y el respeto por la individualidad, valorando los espacios propios, mientras aprendés que la vulnerabilidad fortalece el vínculo.",
+      "Tu propósito de vida": "Tu energía evoluciona al combinar tu inquebrantable independencia con la conexión emocional y la escucha, defendiendo tu singularidad sin levantar barreras con los demás.",
+      "Palabras clave": "Originalidad · Independencia · Creatividad · Innovación · Libertad"
+    }
+  },
+  "PISCIS": {
+    "sign": "Piscis",
+    "element": "Agua",
+    "heading": "Sol en PISCIS - Elemento: Agua",
+    "sections": {
+      "Tu motor vital": "Piscis representa la sensibilidad y la profunda conexión con el mundo interior. Su identidad receptiva e intuitiva encuentra inspiración en el arte, los sueños y la dimensión sutil de la vida.",
+      "Tu forma de brillar": "Comprendés los matices emocionales que otros callan, explorás mundos imaginativos con gran riqueza creativa y te guiás por una intuición que trasciende la lógica.",
+      "Tu poder personal": "Brindás una empatía inigualable para contener a quienes sufren, expresás tus emociones a través de canales artísticos y te adaptás con flexibilidad a los cambios.",
+      "Tus lecciones de vida": "Establecés límites sanos para no absorber las cargas ajenas, evitás la idealización excesiva de la realidad y superás la evasión para enfrentar con madurez las decisiones.",
+      "Cómo te relacionás": "Expresás el afecto mediante la ternura y una profunda disposición de escucha, valorando la aceptación sin juicios, mientras aprendés a priorizar tus propias necesidades.",
+      "Tu propósito de vida": "Tu energía evoluciona al combinar tu inmensa sensibilidad con el autocuidado y el anclaje en la realidad, transformando tu imaginación en acciones concretas sin perder el equilibrio.",
+      "Palabras clave": "Sensibilidad · Imaginación · Intuición · Empatía · Creatividad"
+    }
+  }
+}
