@@ -25,6 +25,8 @@ La carpeta ya incluye el workflow `.github/workflows/deploy-pages.yml`. GitHub e
 
 GitHub ejecuta los comandos de instalación y compilación en sus propios servidores. Las personas que visiten el enlace no necesitan Node.js ni npm; solo un navegador.
 
+No elegir `Deploy from a branch` con `main` y `/root` para este proyecto. Esa opción sirve cuando el repositorio ya contiene archivos web finales listos para el navegador. ASTRODIA contiene código React que primero debe ser compilado por Vite, por eso se publica mediante `GitHub Actions`.
+
 ## Ejecutar el proyecto localmente
 
 Requiere Node.js y npm.
