@@ -75,7 +75,7 @@ function Profiles() {
 }
 
 function About() {
-  return <main className="page-width page-section narrow"><p className="eyebrow">Un espacio para explorar</p><h1>Sobre ASTRODIA</h1><div className="about-copy"><p><strong>ASTRODIA</strong> es un espacio creado para explorar el fascinante mundo de la astrología de una manera sencilla, cercana y entretenida.</p><p>Acá podés descubrir los signos del zodíaco, conocer qué representan el Sol, la Luna y el Ascendente, y explorar cómo se combinan para ofrecernos distintas miradas sobre nuestra forma de ser, sentir y relacionarnos.</p><p><strong>ASTRODIA</strong> es un sitio educativo y de entretenimiento. Su contenido tiene fines informativos y recreativos, y busca despertar tu curiosidad sin presentar las interpretaciones astrológicas como verdades científicas.</p></div></main>;
+  return <main className="page-width page-section narrow"><p className="eyebrow">Un espacio para explorar</p><h1>Sobre ASTRODIA</h1><div className="about-copy"><p><strong>Astrodia</strong> es un espacio creado para explorar el fascinante mundo de la astrología de una manera sencilla, cercana y entretenida.</p><p>Acá podés descubrir los signos del zodíaco, conocer qué representan el Sol, la Luna y el Ascendente, y explorar cómo se combinan para ofrecernos distintas miradas sobre nuestra forma de ser, sentir y relacionarnos.</p><p><strong>Astrodia</strong> es un sitio educativo y de entretenimiento. Su contenido tiene fines informativos y recreativos, y busca despertar tu curiosidad sin presentar las interpretaciones astrológicas como verdades científicas.</p></div></main>;
 }
 
 function SignSelect({ label, value, onChange }) {
