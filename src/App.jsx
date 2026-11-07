@@ -21,7 +21,7 @@ const resultById = new Map(combinations.map((item) => [item.id, item]));
 
 function Header() {
   const location = useLocation();
-  return <header className="site-header">
+  return <header id="top" className="site-header">
     <Link className="brand" to="/"><span className="brand-star">✦</span> Astrodia</Link>
     <nav aria-label="Navegación principal">
       <Link className={location.pathname === '/' ? 'active' : ''} to="/">Inicio</Link>
@@ -52,7 +52,11 @@ function ChoiceCard({ icon, title, text, to, button }) {
 }
 
 function Footer() {
-  return <footer className="site-footer"><p>Todos los derechos reservados - © 2026 - Griselda Ayala</p></footer>;
+  return <footer className="site-footer"><BackToTop /><p>Todos los derechos reservados - © 2026 - Griselda Ayala</p></footer>;
+}
+
+function BackToTop() {
+  return <a className="back-to-top" href="#top">↑ Volver arriba</a>;
 }
 
 const profileCards = [
@@ -66,12 +70,12 @@ function Profiles() {
   return <main className="page-width page-section"><div className="section-heading"><p className="eyebrow">Conocé cada energía</p><h1>Perfiles astrales</h1><p>El Sol, la Luna y el Ascendente cuentan distintas partes de tu experiencia.</p></div>
     <div className="profile-grid">{profileCards.map((card) => <article className={`profile-card ${selected === card.key ? 'selected' : ''}`} key={card.key} onClick={() => setSelected(selected === card.key ? null : card.key)} tabIndex="0" onKeyDown={(event) => event.key === 'Enter' && setSelected(selected === card.key ? null : card.key)}>
       <h2>{card.title}</h2><img src={card.image} alt={card.title} loading="lazy" /><p>{card.intro}</p><span className="card-hint">{selected === card.key ? 'Ocultar información' : 'Ver información'}</span>{selected === card.key && <div className="profile-detail"><ul>{card.details.map((detail) => <li key={detail}><span className="detail-icon" aria-hidden="true">{card.icon}</span><span>{detail}</span></li>)}</ul></div>}
-    </article>)}</div>
+    </article>)}</div><BackToTop />
   </main>;
 }
 
 function About() {
-  return <main className="page-width page-section narrow"><p className="eyebrow">Un espacio para explorar</p><h1>Sobre ASTRODIA</h1><div className="about-copy"><p><strong>ASTRODIA</strong> es un espacio creado para explorar el fascinante mundo de la astrología de una manera sencilla, cercana y entretenida.</p><p>Acá podés descubrir los signos del zodíaco, conocer qué representan el Sol, la Luna y el Ascendente, y explorar cómo se combinan para ofrecernos distintas miradas sobre nuestra forma de ser, sentir y relacionarnos.</p><p><strong>ASTRODIA</strong> es un sitio educativo y de entretenimiento. Su contenido tiene fines informativos y recreativos, y busca despertar tu curiosidad sin presentar las interpretaciones astrológicas como verdades científicas.</p></div></main>;
+  return <main className="page-width page-section narrow"><p className="eyebrow">Un espacio para explorar</p><h1>Sobre ASTRODIA</h1><div className="about-copy"><p><strong>ASTRODIA</strong> es un espacio creado para explorar el fascinante mundo de la astrología de una manera sencilla, cercana y entretenida.</p><p>Acá podés descubrir los signos del zodíaco, conocer qué representan el Sol, la Luna y el Ascendente, y explorar cómo se combinan para ofrecernos distintas miradas sobre nuestra forma de ser, sentir y relacionarnos.</p><p><strong>ASTRODIA</strong> es un sitio educativo y de entretenimiento. Su contenido tiene fines informativos y recreativos, y busca despertar tu curiosidad sin presentar las interpretaciones astrológicas como verdades científicas.</p></div><BackToTop /></main>;
 }
 
 function SignSelect({ label, value, onChange }) {
