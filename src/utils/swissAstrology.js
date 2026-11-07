@@ -3,7 +3,7 @@ import SwissEPH from 'sweph-wasm';
 let swissPromise;
 
 const getSwiss = () => {
-  swissPromise ??= SwissEPH.init(`${import.meta.env.BASE_URL}swiss/swisseph.wasm`);
+  swissPromise ??= SwissEPH.init();
   return swissPromise;
 };
 
