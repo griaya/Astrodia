@@ -52,7 +52,7 @@ function ChoiceCard({ icon, title, text, to, button }) {
 }
 
 function Footer() {
-  return <footer className="site-footer"><BackToTop /><p>Todos los derechos reservados - © 2026 - Griselda Ayala</p></footer>;
+  return <footer className="site-footer"><p>Todos los derechos reservados - © 2026 - Griselda Ayala</p></footer>;
 }
 
 function BackToTop() {
@@ -70,7 +70,7 @@ function Profiles() {
   return <main className="page-width page-section"><div className="section-heading"><p className="eyebrow">Conocé cada energía</p><h1>Perfiles astrales</h1><p>El Sol, la Luna y el Ascendente cuentan distintas partes de tu experiencia.</p></div>
     <div className="profile-grid">{profileCards.map((card) => <article className={`profile-card ${selected === card.key ? 'selected' : ''}`} key={card.key} onClick={() => setSelected(selected === card.key ? null : card.key)} tabIndex="0" onKeyDown={(event) => event.key === 'Enter' && setSelected(selected === card.key ? null : card.key)}>
       <h2>{card.title}</h2><img src={card.image} alt={card.title} loading="lazy" /><p>{card.intro}</p><span className="card-hint">{selected === card.key ? 'Ocultar información' : 'Ver información'}</span>{selected === card.key && <div className="profile-detail"><ul>{card.details.map((detail) => <li key={detail}><span className="detail-icon" aria-hidden="true">{card.icon}</span><span>{detail}</span></li>)}</ul></div>}
-    </article>)}</div><BackToTop />
+    </article>)}</div>
   </main>;
 }
 
@@ -130,7 +130,7 @@ function Result() {
 }
 
 export default function App() {
-  return <div className="app-shell"><Header /><div className="main-content"><Routes><Route path="/" element={<Home />} /><Route path="/perfiles" element={<Profiles />} /><Route path="/acerca-de" element={<About />} /><Route path="/seleccionar" element={<ManualSelection />} /><Route path="/calcular" element={<CalculatePlaceholder />} /><Route path="/resultado/:id" element={<Result />} /></Routes></div><Footer /></div>;
+  return <div className="app-shell"><Header /><div className="main-content"><Routes><Route path="/" element={<Home />} /><Route path="/perfiles" element={<Profiles />} /><Route path="/acerca-de" element={<About />} /><Route path="/seleccionar" element={<ManualSelection />} /><Route path="/calcular" element={<CalculatePlaceholder />} /><Route path="/resultado/:id" element={<Result />} /></Routes><BackToTop /></div><Footer /></div>;
 }
 
 
