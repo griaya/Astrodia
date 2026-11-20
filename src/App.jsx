@@ -22,7 +22,7 @@ const resultById = new Map(combinations.map((item) => [item.id, item]));
 function Header() {
   const location = useLocation();
   return <header id="top" className="site-header">
-    <Link className="brand" to="/"><span className="brand-star">✦</span> Astrodia</Link>
+    <Link className="brand" to="/"><img src={asset('/img/LogoAstrodia.webp')} alt="Astrodia" /></Link>
     <nav aria-label="Navegación principal">
       <Link className={location.pathname === '/' ? 'active' : ''} to="/">Inicio</Link>
       <Link className={location.pathname.startsWith('/perfiles') ? 'active' : ''} to="/perfiles">Perfiles Astrales</Link>
@@ -34,11 +34,11 @@ function Header() {
 function Home() {
   return <main>
     <section className="hero">
-      <img src={asset('/img/Astrodia_inicio.png')} alt="Ilustración principal de Astrodia" />
+      <img src={asset('/img/Astrodia_inicio.webp')} alt="Ilustración principal de Astrodia" />
     </section>
     <section className="welcome">
       <h1>¡Te damos la bienvenida!</h1>
-      <p>Descubrí tus secretos más profundos<br />... si te atrevés ...</p>
+      <p>Descubrí tus secretos más profundos ... si te atrevés ...</p>
     </section>
     <section className="choice-grid page-width">
       <ChoiceCard icon={<span className="triple-icons" aria-hidden="true"><span>☼</span><span>☾</span><span>↑</span></span>} title="Ya conozco mis signos" text="Seleccioná tu signo solar, lunar y ascendente y obtené una interpretación breve de tu personalidad." to="/seleccionar" button="Elegir mis signos" />
@@ -60,9 +60,9 @@ function BackToTop() {
 }
 
 const profileCards = [
-  { key: 'sol', title: 'Sol', image: asset('/img/Sol.png'), intro: 'Tu motor, tu impulso y tu forma de brillar.', icon: '☼', details: ['Representa tu identidad y aquello que te da vitalidad.', 'Muestra cómo expresás tus talentos y tu creatividad.', 'Invita a reconocer tu valor sin depender de la aprobación ajena.'], profiles: solProfiles },
-  { key: 'luna', title: 'Luna', image: asset('/img/LUNA.png'), intro: 'Tu refugio, tu sensibilidad y tu mundo íntimo.', icon: '☾', details: ['Habla de tu sensibilidad y de tus necesidades emocionales.', 'Muestra cómo buscás seguridad y contención en lo cotidiano.', 'Invita a escuchar lo que sentís y expresarlo con claridad.'], profiles: lunaProfiles },
-  { key: 'ascendente', title: 'Ascendente', image: asset('/img/ascendente.png'), intro: 'Tu carta de presentación y la primera impresión que dejás.', icon: '↑', details: ['Describe la manera en que te acercás al mundo.', 'Muestra tu reacción inicial frente a las situaciones nuevas.', 'Invita a desarrollar una forma auténtica de vincularte.'], profiles: ascProfiles },
+  { key: 'sol', title: 'Sol', image: asset('/img/Sol.webp'), intro: 'Tu motor, tu impulso y tu forma de brillar.', icon: '☼', details: ['Representa tu identidad y aquello que te da vitalidad.', 'Muestra cómo expresás tus talentos y tu creatividad.', 'Invita a reconocer tu valor sin depender de la aprobación ajena.'], profiles: solProfiles },
+  { key: 'luna', title: 'Luna', image: asset('/img/LUNA.webp'), intro: 'Tu refugio, tu sensibilidad y tu mundo íntimo.', icon: '☾', details: ['Habla de tu sensibilidad y de tus necesidades emocionales.', 'Muestra cómo buscás seguridad y contención en lo cotidiano.', 'Invita a escuchar lo que sentís y expresarlo con claridad.'], profiles: lunaProfiles },
+  { key: 'ascendente', title: 'Ascendente', image: asset('/img/ascendente.webp'), intro: 'Tu carta de presentación y la primera impresión que dejás.', icon: '↑', details: ['Describe la manera en que te acercás al mundo.', 'Muestra tu reacción inicial frente a las situaciones nuevas.', 'Invita a desarrollar una forma auténtica de vincularte.'], profiles: ascProfiles },
 ];
 
 function Profiles() {
@@ -125,7 +125,7 @@ function Result() {
   const result = resultById.get(id);
   const profileData = result ? { sol: solProfiles[result.sol], luna: lunaProfiles[result.luna], ascendente: ascProfiles[result.ascendente] } : null;
   if (!result) return <main className="page-width page-section"><h1>Combinación no encontrada</h1><Link className="button" to="/seleccionar">Volver a seleccionar</Link></main>;
-  const cards = [{ key: 'sol', label: `Sol en ${signNames[result.sol]}`, image: asset(`/img/${result.sol === 'CANCER' ? 'CANCER' : result.sol}.png`), text: profileData.sol?.sections?.['Tu motor vital'] }, { key: 'luna', label: `Luna en ${signNames[result.luna]}`, image: asset(`/img/${result.luna === 'CANCER' ? 'CANCER' : result.luna}.png`), text: profileData.luna?.sections?.['Tu refugio íntimo'] }, { key: 'ascendente', label: `Ascendente en ${signNames[result.ascendente]}`, image: asset(`/img/${result.ascendente === 'CANCER' ? 'CANCER' : result.ascendente}.png`), text: profileData.ascendente?.sections?.['Tu carta de presentación'] }];
+  const cards = [{ key: 'sol', label: `Sol en ${signNames[result.sol]}`, image: asset(`/img/${result.sol === 'CANCER' ? 'CANCER' : result.sol}.webp`), text: profileData.sol?.sections?.['Tu motor vital'] }, { key: 'luna', label: `Luna en ${signNames[result.luna]}`, image: asset(`/img/${result.luna === 'CANCER' ? 'CANCER' : result.luna}.webp`), text: profileData.luna?.sections?.['Tu refugio íntimo'] }, { key: 'ascendente', label: `Ascendente en ${signNames[result.ascendente]}`, image: asset(`/img/${result.ascendente === 'CANCER' ? 'CANCER' : result.ascendente}.webp`), text: profileData.ascendente?.sections?.['Tu carta de presentación'] }];
   return <main className="page-width page-section result-page"><Link className="back-link" to="/">← Nueva consulta</Link><div className="section-heading"><p className="eyebrow">Tu lectura personalizada</p><h1>Tu combinación astrológica</h1><p className="result-subtitle">Sol en {signNames[result.sol]} · Luna en {signNames[result.luna]} · Ascendente en {signNames[result.ascendente]}</p></div><div className="result-cards">{cards.map((card) => <article className="result-card" key={card.key}><img src={card.image} alt={card.label} /><h2>{card.label}</h2><p>{card.text}</p></article>)}</div><section className="combination"><h2>✦ &nbsp;La combinación de los tres</h2>{result.paragraphs.map((paragraph, index) => <p key={paragraph}>{index === 0 && name ? `${name}, ${paragraph.charAt(0).toLowerCase()}${paragraph.slice(1)}` : paragraph}</p>)}</section><section className="insight-grid">{[{ title: 'Tus fortalezas', items: getCombinationInsights(result).strengths }, { title: 'Tus miedos', items: getCombinationInsights(result).fears }, { title: 'Tu evolución interior', items: getCombinationInsights(result).evolution }].map((column) => <article className="insight-card" key={column.title}><h2>{column.title}</h2><ul>{column.items.map((item) => <li key={item}>{item}</li>)}</ul></article>)}</section></main>;
 }
 
