@@ -22,7 +22,7 @@ const resultById = new Map(combinations.map((item) => [item.id, item]));
 function Header() {
   const location = useLocation();
   return <header id="top" className="site-header">
-    <Link className="brand" to="/"><img src={asset('/img/LogoAstrodia.webp')} alt="Astrodia" /></Link>
+    <Link className="brand" to="/"><img src={asset('/img/LogoAstrodia-transparente.png')} alt="Astrodia" /></Link>
     <nav aria-label="Navegación principal">
       <Link className={location.pathname === '/' ? 'active' : ''} to="/">Inicio</Link>
       <Link className={location.pathname.startsWith('/perfiles') ? 'active' : ''} to="/perfiles">Perfiles Astrales</Link>

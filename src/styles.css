@@ -8,11 +8,11 @@ body { margin: 0; min-width: 320px; background: radial-gradient(circle at 15% 8%
 .main-content { flex: 1; }
 a { color: inherit; text-decoration: none; }
 button, select { font: inherit; }
-.site-header { position: relative; min-height: 72px; padding: 0 clamp(1rem, 4vw, 4rem); display: flex; align-items: center; justify-content: space-between; gap: 1rem; color: #fff; background: #070036; }
+.site-header { position: relative; min-height: 72px; padding: 0 clamp(1rem, 4vw, 4rem); display: flex; align-items: center; justify-content: space-between; gap: 1rem; color: #fff; background: #080035; }
 .brand { display: flex; align-items: center; white-space: nowrap; }
-.brand img { display: block; width: clamp(8.5rem, 15vw, 12rem); height: auto; mix-blend-mode: screen; }
+.brand img { display: block; width: clamp(8.5rem, 15vw, 12rem); height: auto; }
 .brand-star { color: #ffc04d; font-size: 1.7rem; }
-nav { position: absolute; left: 50%; transform: translateX(-50%); display: flex; gap: .2rem; padding: .2rem; white-space: nowrap; border: 1px solid #ffc04d; border-radius: 999px; background: rgba(34, 16, 91, .9); font-family: 'Playfair Display', serif; font-weight: 600; }
+nav { display: flex; gap: .5rem; margin-left: auto; padding: .2rem; white-space: nowrap; border: 0; border-radius: 999px; background: #080035; font-family: 'Playfair Display', serif; font-weight: 600; }
 nav a { padding: .45rem clamp(.7rem, 1.5vw, 1.15rem); border: 0; border-radius: 999px; } nav a:hover { background: #4e0c91; color: #ffe8a4; } nav a.active { background: #6b4bb7; color: #fff; box-shadow: inset 0 -2px 0 #ffc04d; }
 .hero { width: 100%; aspect-ratio: 2848 / 1396; overflow: hidden; margin: 0; padding: 0; } .hero img { display: block; width: 100%; height: auto; max-height: none; object-fit: contain; border-radius: 0; }
 .welcome { width: min(1160px, calc(100% - 2rem)); margin: 0 auto; text-align: center; padding: 1.25rem 1rem .75rem; } h1, h2 { font-family: 'Playfair Display', serif; } .welcome h1 { margin: 0; font-size: clamp(1.8rem, 3.2vw, 2.6rem); } .welcome p { margin: .35rem 0 0; font-size: clamp(1.25rem, 2.2vw, 1.7rem); font-weight: 600; color: #221d70; }
@@ -40,8 +40,9 @@ nav a { padding: .45rem clamp(.7rem, 1.5vw, 1.15rem); border: 0; border-radius: 
 .back-to-top { display: inline-block; color: #45238f; font-weight: 700; font-size: .9rem; }
 .back-to-top:hover { color: #2d176e; text-decoration: underline; }
 .main-content > .back-to-top { display: block; width: min(1160px, calc(100% - 2rem)); margin: 1.5rem auto 2.25rem; text-align: right; }
-@media (max-width: 700px) { .site-header { align-items: flex-start; flex-direction: column; padding-top: .8rem; padding-bottom: .8rem; } nav { position: static; transform: none; width: 100%; justify-content: space-between; gap: .6rem; font-size: .87rem; } .welcome { padding-left: 0; padding-right: 0; } .welcome p { white-space: normal; } .hero { padding: 0; margin-top: 0; } .hero img { border-radius: 0; min-height: 0; } .choice-grid, .profile-grid, .result-cards, .insight-grid { grid-template-columns: 1fr; } .choice-card p { min-height: unset; } .page-section { padding-top: 2.5rem; } .site-footer { align-items: center; flex-direction: column; text-align: center; } .main-content > .back-to-top { width: calc(100% - 2rem); } .date-fields, .time-fields { grid-template-columns: 1fr; } }
-@media (max-width: 700px) { nav { gap: .1rem; } nav a { padding: .4rem .45rem; font-size: .82rem; } }
+@media (max-width: 700px) { .site-header { align-items: center; flex-direction: row; gap: .5rem; padding: .5rem .75rem; } .brand img { width: clamp(6rem, 24vw, 8.5rem); } nav { flex: 1; justify-content: center; gap: .2rem; padding: 0; font-size: .78rem; } nav a { padding: .35rem .4rem; font-size: .78rem; } .welcome { padding-left: 0; padding-right: 0; } .welcome p { white-space: normal; } .hero { padding: 0; margin-top: 0; } .hero img { border-radius: 0; min-height: 0; } .choice-grid, .profile-grid, .result-cards, .insight-grid { grid-template-columns: 1fr; } .choice-card p { min-height: unset; } .page-section { padding-top: 2.5rem; } .site-footer { align-items: center; flex-direction: column; text-align: center; } .main-content > .back-to-top { width: calc(100% - 2rem); } .date-fields, .time-fields { grid-template-columns: 1fr; } }
+@media (max-width: 380px) { .site-header { padding-left: .6rem; padding-right: .6rem; } .brand img { width: 4.75rem; } nav { gap: .1rem; } nav a { padding: .3rem; font-size: .72rem; } }
+@media (max-width: 340px) { .brand img { width: 4rem; } nav a { padding: .25rem; font-size: .7rem; } }
 .section-heading > p:not(.eyebrow) { font-size: 1.1rem; }
 
 /* Ajustes para pantallas angostas y formularios en celulares */
